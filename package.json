@@ -1,7 +1,7 @@
 {
   "name": "onux",
   "main": "./lib/onux-jspp",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
