@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "onux-jspp:toggle"
   },
-  "repository": "http://github.com/govindsaini616/demotestpackage.git",
+  "repository": "https://github.com/aadity/onux.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
