@@ -1,5 +1,5 @@
 {
-  "name": "onux",
+  "name": "onux-atompackage",
   "main": "./lib/onux-jspp",
   "version": "1.3.0",
   "description": "JS++ language support - syntax highlighting and more",
